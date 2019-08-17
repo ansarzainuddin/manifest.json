@@ -1,0 +1,38 @@
+{
+  "name": "kumpulan makalah",
+  "short_name": "Kumpulan makalah",
+  "start_url": "https://www.kumpulanmakalah.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Kumpulan contoh makalah pendidikan dan seputar reperensi makalah",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s48/icon_kta.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s72/icon_kta.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s96/icon_kta.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-eCr8FYmcLGg/XUaZPS34vaI/AAAAAAAAJrU/Ll3YdPK6CVo9LTjj1rJgQ2e01ugk4GiwACLcBGAs/s1600/MAKALAH%2Bvavicon.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-eCr8FYmcLGg/XUaZPS34vaI/AAAAAAAAJrU/Ll3YdPK6CVo9LTjj1rJgQ2e01ugk4GiwACLcBGAs/s1600/MAKALAH%2Bvavicon.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-eCr8FYmcLGg/XUaZPS34vaI/AAAAAAAAJrU/Ll3YdPK6CVo9LTjj1rJgQ2e01ugk4GiwACLcBGAs/s1600/MAKALAH%2Bvavicon.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-eCr8FYmcLGg/XUaZPS34vaI/AAAAAAAAJrU/Ll3YdPK6CVo9LTjj1rJgQ2e01ugk4GiwACLcBGAs/s1600/MAKALAH%2Bvavicon.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
